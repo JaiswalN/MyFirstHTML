@@ -1,0 +1,23 @@
+<html>
+<head>
+<h1> "Welcome to my Website" </h1>
+<p1> "I'm excited to eventually learn Django!" </p1>
+</head>
+<body>
+  <h1></h1>
+  <a href="https://www.djangoproject.com/">Here is a link to the official Django Website</a>
+  <h1></h1>
+  <p1>"Here is a picture of the Python Logo:"</p1>
+  <h1></h1>
+  <img src = "image.jpg" alt= "">
+  <h1></h1>
+  <p2> Here are three reasons Django is cool </p2>
+  <ol>
+    <li> Ridiculously Fast </li>
+    <li> Reassuringly Secure </li>
+    <li> Exceedingly Scalable </li>
+  </ol>
+  <h2> Bonus: Optional Extra Credit</h2>
+  <p2>Can you figure out how to make a picture a link?</p2>
+</body>
+</html>
